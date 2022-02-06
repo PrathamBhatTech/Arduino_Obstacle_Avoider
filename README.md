@@ -6,3 +6,5 @@ Uses 3 IR sensors to avoid objects
   - 3 IR sensors
   - Car chassis with 4 BO motors
   - LN298 Motor driver
+
+Demo is in the repo
